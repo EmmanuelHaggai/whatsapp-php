@@ -4,5 +4,5 @@ I've designed it to be a great starting point for developers who are looking to 
 
 ## Demo
 
-Check out the live demo:  [Whatsapp-php-demo Demo](https://cloud.mabopay.com/)
+Check out the live demo:  [Whatsapp-php-demo Demo](https://demo.emmanuelhaggai.com/)
 
